@@ -1,6 +1,5 @@
 <h2 align="center"> Intro To DSA </h2>
 
----
 
 ### What is Data Structure? 
 - A data structure is a specific way of organizing, storing, and accessing data.
@@ -10,9 +9,9 @@
 
 ---
 
-### CHALLENGE 
+### CHALLENGE 🎯
 
-- Create an array with 5 students names, after that create a function which takes 2 parameters (allStudents & studentName) iterate over all students and find that
+Create an array with 5 students names, after that create a function which takes 2 parameters (allStudents & studentName) iterate over all students and find that
 specific user "studentName".
 
 **HINT**: 
@@ -48,15 +47,18 @@ console.log(findStudent(students, "John"));   // Output: Not Found
 ```
 </details>
 
-**DIVING DEEP** 
-### What data structure is used to solve the above problem? 
+---
+
+### DEEP ANALYSIS 🔎
+
+Q. What data structure is used to solve the above problem? 
 ```javascript 
 // Data Structure 👇 : array 
 const students = ["Aditi", "Rahul", "Meera", "Zaid", "Kabir"];
 ```
 
 
-#### What algorithm is used in the above problem? 
+Q. What algorithm is used in the above problem? 
 ```javascript 
 // Algorithm 👇 : for finding a specific Student
 function findStudent(allStudents, studentName) {
@@ -73,7 +75,7 @@ function findStudent(allStudents, studentName) {
 ---
 
 
-### Why Do I Care : 
+### Why Do I Care ❓
 
 The answer is simple. If you want to get good at these : 
 
@@ -89,7 +91,11 @@ The answer is simple. If you want to get good at these :
 - Lifelong Learning
 - Critical Thinking Champion
 
-You must understand how data works. 
+You must understand how data works and become a great **Problem Solver**
+
+---
+
+
 
 
 
