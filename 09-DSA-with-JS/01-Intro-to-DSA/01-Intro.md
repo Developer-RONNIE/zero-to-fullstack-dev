@@ -1,10 +1,10 @@
 <h2 align="center"> Intro To DSA </h2>
 
 
-### What is Data Structure? 
+### ⚠️ What is Data Structure? 
 - A data structure is a specific way of organizing, storing, and accessing data.
 
-### What is Algorithm? 
+### ⚠️ What is Algorithm? 
 - A set of instructions that tells a computer how to do something, or you can also say step-by-step solution of the problem is called algorithm.
 
 ---
@@ -93,7 +93,7 @@ The answer is simple. If you want to get good at these :
 
 You must understand how data works and become a great **Problem Solver**
 
----
+
 
 
 
