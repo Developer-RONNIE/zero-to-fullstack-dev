@@ -100,7 +100,7 @@ Inside most folders:
 - **Project codebases** with meaningful comments
 
 
-
+<div align="center">
 <br /><br />
   <img src="https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -109,4 +109,6 @@ Inside most folders:
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br /><br />
+<br /><br />
+</div>
+
