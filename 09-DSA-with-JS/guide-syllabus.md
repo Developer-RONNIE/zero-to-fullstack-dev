@@ -21,7 +21,7 @@
 
 - 📂 **01-Intro-to-DSA**  
   - 📄 [Introduction to DSA](./01-Intro-to-DSA/01-Intro.md)  
-  - 📄 [Time Complexity](./09-DSA-with-JS/01-Intro-to-DSA/02-BigO.md)
+  - 📄 [Time Complexity](./01-Intro-to-DSA/02-BigO.md)
 
 - 📂 **02-Arrays**  
   - 📄 questions.md  
