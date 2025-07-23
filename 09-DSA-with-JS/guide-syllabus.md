@@ -20,8 +20,8 @@
   <summary>📁 09-DSA-with-JS</summary>
 
 - 📂 **01-Intro-to-DSA**  
-  - 📄 [Introduction to DSA](./09-DSA-with-JS/01-Intro-to-DSA/Intro.md)  
-  - 📄 [Time Complexity](./09-DSA-with-JS/01-Intro-to-DSA/complexity.md)
+  - 📄 [Introduction to DSA](./09-DSA-with-JS/01-Intro-to-DSA/01-Intro.md)  
+  - 📄 [Time Complexity](./09-DSA-with-JS/01-Intro-to-DSA/02-BigO.md)
 
 - 📂 **02-Arrays**  
   - 📄 questions.md  
