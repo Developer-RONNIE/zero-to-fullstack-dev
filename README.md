@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <br /><br />
   
@@ -78,7 +78,7 @@ This repo is my second brain: notes, snippets, projects, LeetCode solutions, and
 
 This repository is designed to be your **second brain and personal dev library** as you grow from zero to fullstack. Here's how to make the most of it:
 
-### 🔎 1. Navigate by Folder  
+**🔎 1. Navigate by Folder**  
 Each folder is self-contained:
 - `notes/`: 📘 Conceptual understanding & code explanations  
 - `projects/`: 🛠️ Mini and full-scale apps to reinforce learning  
@@ -101,22 +101,12 @@ Inside most folders:
 
 
 
-**🧩 4. Solve + Link Your DSA** 
-In `09-DSA-with-JS`, each problem is tracked and categorized:
-- Use `notes/` for concepts  
-- Use `solved/` to track your LeetCode or pattern solutions  
-- Link your own submissions to your **LeetCode/Blog**
-
-
-
-**🧭 5. Customize for Your Journey**  
-This repo is built with growth in mind — feel free to:
-- Add more folders (like `System Design`, `Docker`, etc.)  
-- Rename/update notes with your learnings  
-- Convert your projects into blog posts or portfolio items
-
-**💡 Bonus: Treat This Like a Digital Portfolio** 
-Use it to:
-- Show recruiters your structured learning  
-- Add project READMEs with GIFs/screenshots  
-- Link to your deployed demos, blogs, or GitHub profile
+<br /><br />
+  <img src="https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br /><br />
