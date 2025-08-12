@@ -5,10 +5,11 @@
 - `HTML` stands for `HyperText Markup Language`. It is the standard language used to structure content on the web. 
 - HTML stands for Hyper Text Markup Langauge
 - The core idea behind HTML is the use of `tags` (also called `markup`) to instruct the web browser on how content should be displayed. These tags define the meaning and structure of `elements` such as `headings`, `paragraphs`, `images`, `links`, and more. 
-
-To start working with HTML, you will need:
+- To start working with HTML, you will need:
 ⭐ A `modern web browser` (e.g., Google Chrome, Mozilla Firefox, Safari, Microsoft Edge) to view and test your web pages.
 ⭐ A `code editor` (e.g., Visual Studio Code, Sublime Text, Atom) to write and edit your HTML code.
+
+---
 
 ###  ⬇️ Download & Install Visual Studio Code 
 
@@ -51,10 +52,15 @@ sudo apt-get install -f
 sudo rpm -i file-name.rpm
 ```
 
+---
 ### 📂 Project Folder SetUp 
 - 
 
+---
+
 ### 🌐 index.html 
 - 
+---
+
 
 ### ❤️ Live Server Extension 
