@@ -55,125 +55,124 @@ This repo is my second brain: notes, snippets, projects, LeetCode solutions, and
 
 
 
-## 📁 <a name="syllabus">Syllabus</a>
-## 📚 Syllabus  
+## 📚 <a name="syllabus">Syllabus</a>
 
 <details>
 <summary><strong style="font-size:1.1rem;">01 - Frontend</strong></summary>
 
-> <details>
-> <summary><a href="./01-Frontend/01-HTML-CSS/HTML">HTML</a></summary>
+<details>
+<summary><a href="./01-Frontend/01-HTML-CSS/HTML">HTML</a></summary>
 
-  - ✅ Introduction to HTML
-  - ✅ Elements & Attributes
-  - ✅ Forms & Inputs
-  - ✅ Semantic HTML
-  - ✅ HTML Best Practices
-> </details>
->
-> <details>
-> <summary><a href="./01-Frontend/01-HTML-CSS/CSS">CSS</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="./01-Frontend/02-JavaScript">JavaScript</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">TailwindCSS</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="./01-Frontend/03-React">React</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">Next.js</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">Vue.js</a></summary>
-> </details>
+  - ✅ Introduction to HTML
+  - ✅ Elements & Attributes
+  - ✅ Forms & Inputs
+  - ✅ Semantic HTML
+  - ✅ HTML Best Practices
+</details>
+
+<details>
+<summary><a href="./01-Frontend/01-HTML-CSS/CSS">CSS</a></summary>
+</details>
+
+<details>
+<summary><a href="./01-Frontend/02-JavaScript">JavaScript</a></summary>
+</details>
+
+<details>
+<summary><a href="#">TailwindCSS</a></summary>
+</details>
+
+<details>
+<summary><a href="./01-Frontend/03-React">React</a></summary>
+</details>
+
+<details>
+<summary><a href="#">Next.js</a></summary>
+</details>
+
+<details>
+<summary><a href="#">Vue.js</a></summary>
+</details>
 
 </details>
 
 <details>
 <summary><strong style="font-size:1.1rem;">02 - Backend</strong></summary>
 
-> <details>
-> <summary><a href="#">Node.js</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">Express.js</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">GraphQL</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">Socket.io</a></summary>
-> </details>
+<details>
+<summary><a href="#">Node.js</a></summary>
+</details>
+
+<details>
+<summary><a href="#">Express.js</a></summary>
+</details>
+
+<details>
+<summary><a href="#">GraphQL</a></summary>
+</details>
+
+<details>
+<summary><a href="#">Socket.io</a></summary>
+</details>
 
 </details>
 
 <details>
 <summary><strong style="font-size:1.1rem;">03 - Databases</strong></summary>
 
-> <details>
-> <summary><a href="#">MySQL</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">MongoDB</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">Firebase</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">PostgreSQL</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">AWS</a></summary>
-> </details>
+<details>
+<summary><a href="#">MySQL</a></summary>
+</details>
+
+<details>
+<summary><a href="#">MongoDB</a></summary>
+</details>
+
+<details>
+<summary><a href="#">Firebase</a></summary>
+</details>
+
+<details>
+<summary><a href="#">PostgreSQL</a></summary>
+</details>
+
+<details>
+<summary><a href="#">AWS</a></summary>
+</details>
 
 </details>
 
 <details>
 <summary><strong style="font-size:1.1rem;">04 - Other Technologies</strong></summary>
 
-> <details>
-> <summary><a href="#">DevOps</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">Python</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">Django</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">TypeScript</a></summary>
-> </details>
->
-> <details>
-> <summary><a href="#">React Native</a></summary>
-> </details>
+<details>
+<summary><a href="#">DevOps</a></summary>
+</details>
+
+<details>
+<summary><a href="#">Python</a></summary>
+</details>
+
+<details>
+<summary><a href="#">Django</a></summary>
+</details>
+
+<details>
+<summary><a href="#">TypeScript</a></summary>
+</details>
+
+<details>
+<summary><a href="#">React Native</a></summary>
+</details>
 
 </details>
 
 <details>
 <summary><strong style="font-size:1.1rem;">05 - Project Ideas</strong></summary>
 
-> - 💡 Idea 1  
-> - 💡 Idea 2  
-> - 💡 Idea 3  
+- 💡 Idea 1  
+- 💡 Idea 2  
+- 💡 Idea 3  
 
 </details>
 
