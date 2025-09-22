@@ -1,11 +1,11 @@
 # <div align="center"> HTML </div>
 
----
+
 
 ### Introduction
----
+
 ### Project Folder Setup
----
+
 ### index.html
 ---
 ### Live Server Extension 
