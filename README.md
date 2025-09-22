@@ -80,16 +80,6 @@ This repo is my second brain: notes, snippets, projects, LeetCode solutions, and
 - buttons
 - forms
 - headers & footers
-- Introduction to CSS
-- colors
-- fonts
-- borders
-- shadows
-- margins
-- float
-- overflow
-- display property
-- height and width
 </details>
 
 <details>
