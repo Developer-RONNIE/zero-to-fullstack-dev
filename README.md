@@ -57,143 +57,120 @@ This repo is my second brain: notes, snippets, projects, LeetCode solutions, and
 
 ## 📁 <a name="syllabus">Syllabus</a>
 ## 📚 Syllabus  
+## 📚 Syllabus  
 
 <details>
-<summary><a href="./01-Frontend">01 - Frontend</a></summary>
+<summary><h2>01 - Frontend</h2></summary>
 
 <details>
-<summary><a href="./01-Frontend/01-HTML-CSS/HTML">HTML</a></summary>
-  - 
-  - 
-  - 
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">HTML</h3></summary>
 </details>
 
 <details>
-<summary><a href="./01-Frontend/01-HTML-CSS/CSS">CSS</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">CSS</h3></summary>
 </details>
 
 <details>
-<summary><a href="./01-Frontend/02-JavaScript">JavaScript</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">JavaScript</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">TailwindCSS</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">TailwindCSS</h3></summary>
 </details>
 
 <details>
-<summary><a href="./01-Frontend/03-React">React</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">React</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">Next.js</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">Next.js</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">Vue.js</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">Vue.js</h3></summary>
 </details>
 
 </details>
 
 <details>
-<summary><a href="./02-Backend">02 - Backend</a></summary>
+<summary><h2>02 - Backend</h2></summary>
 
 <details>
-<summary><a href="#">Node.js</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">Node.js</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">Express.js</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">Express.js</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">GraphQL</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">GraphQL</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">Socket.io</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">Socket.io</h3></summary>
 </details>
 
 </details>
 
 <details>
-<summary><a href="./03-Databases">03 - Databases</a></summary>
+<summary><h2>03 - Databases</h2></summary>
 
 <details>
-<summary><a href="#">MySQL</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">MySQL</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">MongoDB</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">MongoDB</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">Firebase</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">Firebase</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">PostgreSQL</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">PostgreSQL</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">AWS</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">AWS</h3></summary>
 </details>
 
 </details>
 
 <details>
-<summary><a href="./04-Other-Technologies">04 - Other Technologies</a></summary>
+<summary><h2>04 - Other Technologies</h2></summary>
 
 <details>
-<summary><a href="#">DevOps</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">DevOps</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">Python</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">Python</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">Django</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">Django</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">TypeScript</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">TypeScript</h3></summary>
 </details>
 
 <details>
-<summary><a href="#">React Native</a></summary>
-
+<summary><h3 style="background-color:#f6f8fa; padding:4px; border-radius:6px;">React Native</h3></summary>
 </details>
 
 </details>
 
 <details>
-<summary><a href="./05-Project-Ideas">05 - Project Ideas</a></summary>
+<summary><h2>05 - Project Ideas</h2></summary>
 
 - 💡 Idea 1  
 - 💡 Idea 2  
 - 💡 Idea 3  
 
 </details>
-
 
 
 
