@@ -56,119 +56,121 @@ This repo is my second brain: notes, snippets, projects, LeetCode solutions, and
 
 
 ## 📁 <a name="syllabus">Syllabus</a>
+## 📚 Syllabus  
 
 <details>
-<summary><h3>01 - Frontend</h3></summary>
+<summary><strong style="font-size:1.1rem;">01 - Frontend</strong></summary>
 
 > <details>
-> <summary>HTML</summary>
+> <summary><a href="./01-Frontend/01-HTML-CSS/HTML">HTML</a></summary>
 > </details>
 >
 > <details>
-> <summary>CSS</summary>
+> <summary><a href="./01-Frontend/01-HTML-CSS/CSS">CSS</a></summary>
 > </details>
 >
 > <details>
-> <summary>JavaScript</summary>
+> <summary><a href="./01-Frontend/02-JavaScript">JavaScript</a></summary>
 > </details>
 >
 > <details>
-> <summary>TailwindCSS</summary>
+> <summary><a href="#">TailwindCSS</a></summary>
 > </details>
 >
 > <details>
-> <summary>React</summary>
+> <summary><a href="./01-Frontend/03-React">React</a></summary>
 > </details>
 >
 > <details>
-> <summary>Next.js</summary>
+> <summary><a href="#">Next.js</a></summary>
 > </details>
 >
 > <details>
-> <summary>Vue.js</summary>
+> <summary><a href="#">Vue.js</a></summary>
 > </details>
 
 </details>
 
 <details>
-<summary><h3>02 - Backend</h3></summary>
+<summary><strong style="font-size:1.1rem;">02 - Backend</strong></summary>
 
 > <details>
-> <summary>Node.js</summary>
+> <summary><a href="#">Node.js</a></summary>
 > </details>
 >
 > <details>
-> <summary>Express.js</summary>
+> <summary><a href="#">Express.js</a></summary>
 > </details>
 >
 > <details>
-> <summary>GraphQL</summary>
+> <summary><a href="#">GraphQL</a></summary>
 > </details>
 >
 > <details>
-> <summary>Socket.io</summary>
-> </details>
-
-</details>
-
-<details>
-<summary><h3>03 - Databases</h3></summary>
-
-> <details>
-> <summary>MySQL</summary>
-> </details>
->
-> <details>
-> <summary>MongoDB</summary>
-> </details>
->
-> <details>
-> <summary>Firebase</summary>
-> </details>
->
-> <details>
-> <summary>PostgreSQL</summary>
-> </details>
->
-> <details>
-> <summary>AWS</summary>
+> <summary><a href="#">Socket.io</a></summary>
 > </details>
 
 </details>
 
 <details>
-<summary><h3>04 - Other Technologies</h3></summary>
+<summary><strong style="font-size:1.1rem;">03 - Databases</strong></summary>
 
 > <details>
-> <summary>DevOps</summary>
+> <summary><a href="#">MySQL</a></summary>
 > </details>
 >
 > <details>
-> <summary>Python</summary>
+> <summary><a href="#">MongoDB</a></summary>
 > </details>
 >
 > <details>
-> <summary>Django</summary>
+> <summary><a href="#">Firebase</a></summary>
 > </details>
 >
 > <details>
-> <summary>TypeScript</summary>
+> <summary><a href="#">PostgreSQL</a></summary>
 > </details>
 >
 > <details>
-> <summary>React Native</summary>
+> <summary><a href="#">AWS</a></summary>
 > </details>
 
 </details>
 
 <details>
-<summary><h3>05 - Project Ideas</h3></summary>
+<summary><strong style="font-size:1.1rem;">04 - Other Technologies</strong></summary>
+
+> <details>
+> <summary><a href="#">DevOps</a></summary>
+> </details>
+>
+> <details>
+> <summary><a href="#">Python</a></summary>
+> </details>
+>
+> <details>
+> <summary><a href="#">Django</a></summary>
+> </details>
+>
+> <details>
+> <summary><a href="#">TypeScript</a></summary>
+> </details>
+>
+> <details>
+> <summary><a href="#">React Native</a></summary>
+> </details>
+
+</details>
+
+<details>
+<summary><strong style="font-size:1.1rem;">05 - Project Ideas</strong></summary>
 
 > - 💡 Idea 1  
 > - 💡 Idea 2  
 > - 💡 Idea 3  
 
 </details>
+
 
 
 
