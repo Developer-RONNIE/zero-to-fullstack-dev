@@ -63,6 +63,9 @@ This repo is my second brain: notes, snippets, projects, LeetCode solutions, and
 
 > <details>
 > <summary><a href="./01-Frontend/01-HTML-CSS/HTML">HTML</a></summary>
+> - 💡 Idea 1  
+> - 💡 Idea 2  
+> - 💡 Idea 3  
 > </details>
 >
 > <details>
