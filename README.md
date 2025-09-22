@@ -63,11 +63,11 @@ This repo is my second brain: notes, snippets, projects, LeetCode solutions, and
 <details>
 <summary><a href="./01-Frontend/01-HTML-CSS/HTML">HTML</a></summary>
 
-  - ✅ Introduction to HTML
-  - ✅ Elements & Attributes
-  - ✅ Forms & Inputs
-  - ✅ Semantic HTML
-  - ✅ HTML Best Practices
+  - ✅ Introduction to HTML
+  - ✅ Elements & Attributes
+  - ✅ Forms & Inputs
+  - ✅ Semantic HTML
+  - ✅ HTML Best Practices
 </details>
 
 <details>
