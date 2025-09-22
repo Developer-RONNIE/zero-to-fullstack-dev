@@ -63,11 +63,33 @@ This repo is my second brain: notes, snippets, projects, LeetCode solutions, and
 <details>
 <summary><a href="./01-Frontend/01-HTML-CSS/HTML">HTML</a></summary>
 
-  - ✅ Introduction to HTML
-  - ✅ Elements & Attributes
-  - ✅ Forms & Inputs
-  - ✅ Semantic HTML
-  - ✅ HTML Best Practices
+- Introduction to HTML
+- project folder setup
+- index.html
+- live server extension
+- html basics
+- hyperlinks
+- images
+- audio
+- video
+- favicons
+- text formatting
+- span & div
+- lists
+- tables
+- buttons
+- forms
+- headers & footers
+- Introduction to CSS
+- colors
+- fonts
+- borders
+- shadows
+- margins
+- float
+- overflow
+- display property
+- height and width
 </details>
 
 <details>
