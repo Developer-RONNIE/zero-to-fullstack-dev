@@ -57,8 +57,11 @@ This repo is my second brain: notes, snippets, projects, LeetCode solutions, and
 
 ## 📚 <a name="syllabus">Syllabus</a>
 
+Review the `Notes.md` file for each tech stack to better understand the other code and files.
+
+
 <details>
-<summary><strong style="font-size:1.1rem;">01 - Frontend</strong></summary>
+<summary><strong style="font-size:1.1rem;"> Frontend</strong></summary>
 
 <details>
 <summary><a href="./01-Frontend/01-HTML-CSS/HTML">HTML</a></summary>
@@ -84,6 +87,31 @@ This repo is my second brain: notes, snippets, projects, LeetCode solutions, and
 
 <details>
 <summary><a href="./01-Frontend/01-HTML-CSS/CSS">CSS</a></summary>
+
+- Introduction to CSS 🎨
+- Colors 🖌️
+- Fonts 🔤
+- Borders 🖼
+- Shadows 👥
+- Margins ↔️
+- Float 🎈
+- Overflow 🌊
+- Display Property 🧱
+- Height and Width 📏
+- Positions 🎯
+- Background Images 🏙️
+- Combinators ➕
+- Pseudo-classes ☟
+- Pseudo-elements ✔
+- Pagination 🕮
+- Dropdown Menus 🔻
+- Navigation Bar 🧭
+- Website Layout 🗺️
+- Image Gallery 📷
+- Icons 🐤
+- Flexbox 💪
+- Transformations 🔄
+- Animations 🎬
 </details>
 
 <details>
