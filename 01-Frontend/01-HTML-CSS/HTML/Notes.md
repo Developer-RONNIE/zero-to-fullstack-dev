@@ -20,7 +20,7 @@ Install the VS Code Live Server extension → Open your HTML file → Right-clic
 - `<body>` holds everything that is visible on the webpage — text, images, buttons, etc.  
 
 
-### HTML Basics
+
 ### HTML Basics  
 
 - `<>` → Angle brackets used to write HTML tags which tell the browser what each piece of content means.  
@@ -52,6 +52,37 @@ This project will help practice real-world HTML structure and make you comfortab
 
 
 ### Hyperlinks
+### Hyperlinks & Anchor Tag  
+
+- `<a>` → The anchor tag is used to create hyperlinks to navigate to other pages, websites, or files.  
+- `href` → Stands for **Hyperlink Reference** — specifies the destination URL or file path.  
+- `target="_blank"` → Opens the link in a new browser tab (useful for external sites like YouTube).  
+- `title` → Adds extra info about the link; when you hover over the link, the title text appears as a tooltip.  
+
+
+
+### Absolute vs Relative URLs  
+
+- **Absolute URL:** Full web address that includes protocol (`https://`), domain name, and file path.  
+  - Example:  
+    ```html
+    <a href="https://www.youtube.com/watch?v=abcd1234">Watch on YouTube</a>
+    ```
+  - Always points to the same resource no matter where your HTML file is.  
+
+- **Relative URL:** Path relative to the current HTML file’s location.  
+  - Example:  
+    ```html
+    <a href="./lyrics.html">Lyrics Page</a>
+    ```
+  - Used for linking files within your own project (doesn’t include `https://`).  
+
+### 📂 Project : 
+ **Task:**  
+ Under the singer’s name (inside your `lyrics.html`), add a YouTube link to the song using `<a>`, `href`, `target="_blank"`, and `title`.  
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`lyrics.html`](./lyrics.html) 
 
 ### Images
 
