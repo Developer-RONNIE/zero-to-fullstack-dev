@@ -103,9 +103,38 @@ Under the singer’s name (inside your lyrics.html), add the album cover as an i
 > 💡 **Refer this for better understanding:**  
 > Check out [`lyrics.html`](./lyrics.html) 
 
-### Audio
+
+### Audio  
+
+- `<audio>` → Used to embed audio files in a webpage. Can have controls or play automatically.  
+- `controls` → Displays built-in audio controls (play, pause, volume).  
+- `autoplay` → Plays the audio automatically when the page loads *(often combined with `muted` due to browser restrictions)*.  
+- `muted` → Starts the audio with sound off (required for autoplay to work on most browsers).  
+- `loop` → Plays the audio file in an infinite loop.  
+- `<source>` → Nested inside `<audio>`, specifies the audio file and its format.  
+- `src` (inside `<source>`) → Path to the audio file.  
+- `type` → Defines the MIME type of the file (so the browser knows how to play it).  
+  - Common types:  
+    - `audio/mpeg` → For `.mp3` files  
+    - `audio/wav` → For `.wav` files  
+    - `audio/ogg` → For `.ogg` files  
+
+**Example:**  
+```html
+<audio controls autoplay muted loop>
+  <source src="./song.mp3" type="audio/mpeg">
+  <source src="./song.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+```
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`index.html`](./index.html) 
+
 
 ### Video
+
+
 
 ### Favicons
 
