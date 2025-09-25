@@ -22,6 +22,15 @@ Install the VS Code Live Server extension → Open your HTML file → Right-clic
 
 
 ### ⭐HTML Basics  
+### Tags & Attributes  
+
+- **Tags:** Define the structure of a webpage.  
+  - Most tags have an opening `<tag>` and closing `</tag>` (e.g., `<p>...</p>`).  
+  - Some are self-closing (e.g., `<br>`, `<img>`).  
+
+- **Attributes:** Add extra information to a tag, written inside the opening tag as `name="value"`.  
+  - Example: `<img src="album.jpg" alt="Album Cover">`  
+  - `src` tells where the image is, `alt` describes it. 
 
 - `<>` → Angle brackets used to write HTML tags which tell the browser what each piece of content means.  
 - `<!DOCTYPE html>` → Ensures the browser renders the page using the latest HTML5 standards.  
@@ -165,7 +174,40 @@ Under the singer’s name (inside your lyrics.html), add the album cover as an i
 
 
 
-### ⭐Favicons
+### ⭐Favicons 
+
+- **What is a Favicon?**  
+  - A favicon (short for "favorite icon") is the small icon that appears in the browser tab, bookmarks, and search results.  
+  - It helps users quickly recognize your site.  
+
+- **Why it is used:**  
+  - Improves branding & professionalism.  
+  - Makes your site easily identifiable in multiple open tabs.  
+  - Appears in browser bookmarks, history, and search previews.  
+
+- **Supported Formats:**  
+  - `.ico` → Most common format (best compatibility across browsers).  
+  - `.png` → High-quality transparent icon (commonly used).  
+  - `.gif` → Animated favicon (rarely used, can be distracting).  
+  - `.jpg` → Works, but no transparency support.  
+  - `.svg` → Scalable vector favicon (modern, but not supported by all browsers).  
+
+- **Attributes in `<link>` tag:**  
+  - `rel` → Relationship attribute, set to `"icon"` (or `"shortcut icon"` for legacy browsers).  
+  - `type` → Specifies the MIME type (`image/x-icon`, `image/png`, etc.).  
+  - `href` → Path to your favicon file.  
+
+**Example:**  
+```html
+<head>
+  <link rel="icon" type="image/x-icon" href="./favicon.ico">
+</head>
+``` 
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`index.html`](./index.html) for a practical example of all the above tags in action.
+
+
 
 ### ⭐Text Formatting
 
