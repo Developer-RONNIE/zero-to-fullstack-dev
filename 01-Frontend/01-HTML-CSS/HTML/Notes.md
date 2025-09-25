@@ -2,16 +2,16 @@
 
 
 
-### Introduction
+### ⭐Introduction
 **History:** HTML (HyperText Markup Language) was first created by Tim Berners-Lee in 1991 and is the standard language used to create and structure web pages.  
 **Use:** It provides the *skeleton* of a webpage — defining headings, paragraphs, links, images, forms, and overall page structure.  
 
 
-###  Live Server Extension 
+###  ⭐Live Server Extension 
 Install the VS Code Live Server extension → Open your HTML file → Right-click → Select **"Open with Live Server"** → The page automatically opens in your default browser and refreshes whenever you save changes. Perfect for live preview while coding.  
 
 
-### index.html
+### ⭐index.html
 **Boilerplate:** The main file that contains the structure of your webpage.  
 - `<!DOCTYPE html>` tells the browser this is an HTML5 document.  
 - `<html>` is the root container for all content.  
@@ -21,7 +21,7 @@ Install the VS Code Live Server extension → Open your HTML file → Right-clic
 
 
 
-### HTML Basics  
+### ⭐HTML Basics  
 
 - `<>` → Angle brackets used to write HTML tags which tell the browser what each piece of content means.  
 - `<!DOCTYPE html>` → Ensures the browser renders the page using the latest HTML5 standards.  
@@ -51,8 +51,8 @@ This project will help practice real-world HTML structure and make you comfortab
 > Check out [`lyrics.html`](./lyrics.html) 
 
 
-### Hyperlinks
-### Hyperlinks & Anchor Tag  
+### ⭐Hyperlinks
+#### Hyperlinks & Anchor Tag  
 
 - `<a>` → The anchor tag is used to create hyperlinks to navigate to other pages, websites, or files.  
 - `href` → Stands for **Hyperlink Reference** — specifies the destination URL or file path.  
@@ -61,7 +61,7 @@ This project will help practice real-world HTML structure and make you comfortab
 
 
 
-### Absolute vs Relative URLs  
+#### Absolute vs Relative URLs  
 
 - **Absolute URL:** Full web address that includes protocol (`https://`), domain name, and file path.  
   - Example:  
@@ -84,7 +84,7 @@ This project will help practice real-world HTML structure and make you comfortab
 > 💡 **Refer this for better understanding:**  
 > Check out [`lyrics.html`](./lyrics.html) 
 
-### Images  
+### ⭐Images  
 - `<img>` → Used to display images on a webpage. It is a **self-closing tag** (no `</img>` needed).  
 - `src` → Stands for **Source** — specifies the path (URL or relative path) of the image.  
 - `alt` → Alternative text shown if the image cannot load; also improves SEO and accessibility for screen readers.  
@@ -104,7 +104,7 @@ Under the singer’s name (inside your lyrics.html), add the album cover as an i
 > Check out [`lyrics.html`](./lyrics.html) 
 
 
-### Audio  
+### ⭐Audio  
 
 - `<audio>` → Used to embed audio files in a webpage. Can have controls or play automatically.  
 - `controls` → Displays built-in audio controls (play, pause, volume).  
@@ -132,24 +132,53 @@ Under the singer’s name (inside your lyrics.html), add the album cover as an i
 > Check out [`index.html`](./index.html) 
 
 
-### Video
+### ⭐Video
+### Video  
+
+- `<video>` → Used to embed videos on a webpage. Can display controls, autoplay, and loop just like `<audio>`.  
+- `controls` → Adds built-in video controls (play, pause, volume, fullscreen).  
+- `autoplay` → Plays the video automatically when the page loads *(must be combined with `muted` to work on most browsers)*.  
+- `muted` → Starts the video with sound off (needed for autoplay to work).  
+- `loop` → Repeats the video infinitely after it ends.  
+- `width` / `height` → Sets the display size of the video in pixels.  
+- `<source>` → Nested inside `<video>`, specifies the video file and format.  
+- `src` (inside `<source>`) → Path to the video file.  
+- `type` → Specifies the video format (MIME type) for better browser support.  
+
+**Common Video Formats:**  
+- `.mp4` → Most widely supported (MIME type: `video/mp4`).  
+- `.webm` → High-quality, open format supported by most modern browsers (MIME type: `video/webm`).  
+- `.ogg` → Open format, good for fallback support (MIME type: `video/ogg`).  
+
+**Example:**  
+```html
+<video controls width="640" height="360" autoplay muted loop>
+  <source src="./sample-video.mp4" type="video/mp4">
+  <source src="./sample-video.webm" type="video/webm">
+  <source src="./sample-video.ogv" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+```
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`index.html`](./index.html) 
 
 
 
-### Favicons
+### ⭐Favicons
 
-### Text Formatting
+### ⭐Text Formatting
 
-### Span & Div
+### ⭐Span & Div
 
-### Lists
+### ⭐Lists
 
-### Tables
+### ⭐Tables
 
-### Buttons
+### ⭐Buttons
 
-### Forms
+### ⭐Forms
 
-### Headers & Footers
+### ⭐Headers & Footers
 
 
