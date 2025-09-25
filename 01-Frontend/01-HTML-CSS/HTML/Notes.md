@@ -84,7 +84,24 @@ This project will help practice real-world HTML structure and make you comfortab
 > 💡 **Refer this for better understanding:**  
 > Check out [`lyrics.html`](./lyrics.html) 
 
-### Images
+### Images  
+- `<img>` → Used to display images on a webpage. It is a **self-closing tag** (no `</img>` needed).  
+- `src` → Stands for **Source** — specifies the path (URL or relative path) of the image.  
+- `alt` → Alternative text shown if the image cannot load; also improves SEO and accessibility for screen readers.  
+- `height` / `width` → Set the size of the image. Can be in `px` (pixels) or `%` (percentage of the container).  
+- **Images as hyperlinks:** You can wrap an `<img>` tag inside an `<a>` tag to make the image clickable.  
+  ```html
+  <a href="https://example.com" target="_blank">
+    <img src="./album.jpg" alt="Album Cover" width="300">
+  </a>
+  ```
+
+### 📂 Project : 
+ **Task:**
+Under the singer’s name (inside your lyrics.html), add the album cover as an image with alt text.
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`lyrics.html`](./lyrics.html) 
 
 ### Audio
 
