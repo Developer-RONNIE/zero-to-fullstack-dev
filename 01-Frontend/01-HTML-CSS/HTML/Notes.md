@@ -210,10 +210,38 @@ Under the singer’s name (inside your lyrics.html), add the album cover as an i
 
 
 ### ⭐Text Formatting
+ 
+- `<b>` → **Bold** text (for styling, not importance).  
+- `<strong>` → **Bold** text (adds semantic importance, better for SEO & screen readers).  
+- `<i>` → *Italic* text (for styling).  
+- `<em>` → *Italic* text (adds emphasis semantically).  
+- `<u>` → Underlined text.  
+- `<del>` → ~~Deleted~~ text (shows strike-through).  
+- `<big>` → Makes text slightly larger.  
+- `<small>` → Makes text smaller.  
+- `<sub>` → Subscript text (e.g., H<sub>2</sub>O).  
+- `<sup>` → Superscript text (e.g., X<sup>2</sup>).  
+- `<code>` → Monospaced text (used to display code snippets).  
+- `<mark>` → <mark>Highlighted</mark> text.  
+
+
 
 ### ⭐Span & Div
+- **`<div>`** → Block-level container.  
+  - Used to group larger sections of HTML.  
+  - Starts on a new line and takes full width.  
+  - Often used with CSS for layout.  
+
+- **`<span>`** → Inline container.  
+  - Used to style or group small parts of text inside a line.  
+  - Does NOT break the line.  
+
+✅ **Key Difference:**  
+- `<div>` → big container, affects layout.  
+- `<span>` → small container, affects part of text.  
 
 ### ⭐Lists
+
 
 ### ⭐Tables
 
