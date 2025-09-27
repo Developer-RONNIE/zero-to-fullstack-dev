@@ -238,9 +238,33 @@ Under the singer’s name (inside your lyrics.html), add the album cover as an i
 
 ✅ **Key Difference:**  
 - `<div>` → big container, affects layout.  
-- `<span>` → small container, affects part of text.  
+- `<span>` → small container, affects part of text. 
+
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`index.html`](./index.html) for a practical example of all the above tags in action.
+
 
 ### ⭐Lists
+
+- **Unordered List `<ul>`**  
+  - Displays items with **bullet points**.  
+  - Each item goes inside `<li>` (list item).  
+  - Example: Good for listing ingredients, features, tasks.  
+
+- **Ordered List `<ol>`**  
+  - Displays items with **numbers (1, 2, 3)** or letters (a, b, c).  
+  - Each item goes inside `<li>`.  
+  - Example: Perfect for step-by-step instructions or rankings.  
+
+- **Description List `<dl>`**  
+  - Used to show **term–description pairs**.  
+  - `<dt>` defines the term, `<dd>` explains it.  
+  - Example: Great for glossaries, FAQs, or key-value pairs.  
+
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`index.html`](./index.html) for a practical example of all the above tags in action.
 
 
 ### ⭐Tables
