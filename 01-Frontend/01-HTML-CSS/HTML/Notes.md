@@ -269,6 +269,25 @@ Under the singer’s name (inside your lyrics.html), add the album cover as an i
 
 ### ⭐Tables
 
+- **Table `<table>`** → Used to display data in rows & columns (like Excel).  
+
+- **Row `<tr>`** → Table Row — groups cells in a horizontal line.  
+- **Header `<th>`** → Table Header Cell — bold and centered by default, represents column heading.  
+- **Data `<td>`** → Table Data Cell — holds the actual data inside rows.  
+
+### Common Table Attributes  
+- **border** → Adds border to the table and cells.  
+- **style** → Inline CSS for colors, font, spacing.  
+- **align** → Aligns table or cell content (left, center, right).  
+- **width / height** → Sets table or cell size.  
+
+✅ **Use Case:** Perfect for displaying tabular data like schedules, price lists, scoreboards.  
+
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`index.html`](./index.html) for a practical example of all the above tags in action.
+
+
 ### ⭐Buttons
 
 ### ⭐Forms
