@@ -159,6 +159,59 @@
          <a href="https://www.google.com">
             <button style="font-size: 25px; background-color: grey; color: lightblue; border-radius: 10px;">Click Me!</button>
          </a>
+
+        <hr>
+
+        <h3>This is a form</h3>
+        <!-- Forms  -->
+         <form action="index.php" method="POST" enctype="multipart/form-data">
+
+            <label for="username">username:</label>
+            <input type="text" id="username" placeholder="Enter username" minlength="6" maxlength="15" required> <br>
+
+            <label for="email">email:</label>
+            <input type="email" id="email" placeholder="Enter email"><br>
+
+            <label for="phone">phone:</label>
+            <input type="tel" id="phone" placeholder="Enter phone number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"> <br>
+
+            <label for="bday">birthday:</label>
+            <input type="date"  id="bday" > <br>
+
+            <label for="quanity">quanity</label>
+            <input type="number" id="quanity" min="1" max="10" value="1"> <br>
+
+            <label for="title">title</label> 
+            <label for="Mr.">Mr.</label>
+            <input type="radio" id="Mr." value="Mr." title="title">
+            <label for="Ms.">Ms.</label> 
+            <input type="radio" id="Ms." value="Ms." title="title">
+            <label for="Phd.">Phd.</label>
+            <input type="radio" id="Phd." value="Phd." title="title"> <br>
+
+            <label for="payment">payment:</label> 
+            <select  id="payment">
+                <option value="visa">Visa</option>
+                <option value="mastercard">MasterCard</option>
+                <option value="upi">UPI</option>
+                <option value="giftcard">Gift Card</option>
+            </select><br>
+
+            <label for="subscribe">subscribe:</label>
+            <input type="checkbox" id="subscribe"><br>
+
+            <label for="comment">comment:</label> 
+            <textarea id="comment" cols="30" rows="3" placeholder="Enter comment here..."></textarea> <br>
+
+            <label for="file">file:</label>
+            <input type="file" id="file" accept=".jpg, .png, .pdf"> <br>
+
+            <label for="username">password:</label>
+            <input type="password" id="password" placeholder="Enter password" minlength="6" maxlength="15" required> <br>
+            
+            <input type="reset" value="Reset">
+            <input type="submit" value="Submit">
+         </form>
         
 
          

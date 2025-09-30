@@ -310,6 +310,63 @@ Under the singer’s name (inside your lyrics.html), add the album cover as an i
 
 ### ⭐Forms
 
+- **Form `<form>`** → Used to collect user input (login, signup, search, etc.).  
+
+#### Form Attributes  
+- **action** → The URL where form data is sent after submission.  
+- **method** → Defines how data is sent:  
+  - **GET** → Appends data in URL (not secure, used for search/filter).  
+  - **POST** → Sends data in request body (secure, used for login/signup).  
+- **enctype** → Defines how form data is encoded before sending.  
+  - `application/x-www-form-urlencoded` → Default, normal text data.  
+  - `multipart/form-data` → Required for file uploads.  
+  - `text/plain` → Rare, sends raw text.  
+
+
+
+#### Labels & Inputs  
+- **`<label>`** → Describes an input field.  
+- **for attribute** → Links label to input using the input’s `id`.  
+
+- **`<input>`** → Collects user data.  
+  - **type**:  
+    - `text` → Single-line text.  
+    - `password` → Hides typed text.  
+    - `email` → Email input with validation.  
+    - `tel` → Phone number input.  
+    - `date` → Date picker.  
+    - `number` → Quantity/number input.  
+    - `radio` → Select one option from a group.  
+    - `checkbox` → Select multiple options.  
+    - `submit` → Submits form.  
+    - `reset` → Clears form.  
+    - `file` → Uploads a file.  
+
+
+#### Useful Input Attributes  
+- **placeholder** → Hint text shown inside input.  
+- **pattern** → Regex for input validation (e.g., phone, password rules).  
+- **minlength / maxlength** → Character length limits.  
+- **required** → Makes input mandatory.  
+- **name** → Groups inputs (especially important for `radio` & `checkbox`).  
+- **accept** → Restricts file upload type (e.g., `.png, .jpg, .pdf`).  
+
+
+
+#### Dropdowns  
+- **`<select>`** → Creates a dropdown menu.  
+- **`<option>`** → Individual choices inside dropdown.  
+
+
+
+✅ **Use Case:** Forms are essential for collecting user information — from login forms, search bars, and surveys, to file uploads and checkout forms.  
+
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`index.html`](./index.html) for a practical example of all the above tags in action.
+
+
+
 ### ⭐Headers & Footers
 
 
