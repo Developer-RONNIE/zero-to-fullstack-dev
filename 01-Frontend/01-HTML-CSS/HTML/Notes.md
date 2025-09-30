@@ -290,6 +290,24 @@ Under the singer’s name (inside your lyrics.html), add the album cover as an i
 
 ### ⭐Buttons
 
+- **Button `<button>`** → Creates a clickable button.  
+- Can be used for forms (submit/reset) or custom actions.  
+- You can turn a button into a **hyperlink** by using `<a>` with button styling or by handling clicks with JavaScript later.  
+- **onClick** → Attribute that runs JavaScript code when the button is clicked (we’ll use this while learning JS).  
+
+### Common Button Attributes (Inline CSS)  
+- **style** → Add custom styling directly in the button.  
+- **font-size** → Controls text size inside button.  
+- **background-color** → Sets button color.  
+- **color** → Sets text color.  
+- **border-radius** → Rounds the corners of the button.  
+
+✅ **Use Case:** Buttons are used for actions like submitting forms, playing media, or navigating to another page.  
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`index.html`](./index.html) for a practical example of all the above tags in action.
+
+
 ### ⭐Forms
 
 ### ⭐Headers & Footers
