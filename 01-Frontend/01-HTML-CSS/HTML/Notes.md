@@ -369,4 +369,28 @@ Under the singer’s name (inside your lyrics.html), add the album cover as an i
 
 ### ⭐Headers & Footers
 
+- **Header `<header>`** → The top section of a webpage.  
+  - Usually contains the **website logo, navigation bar, and title**.  
+  - Helps users quickly understand where they are and navigate easily.  
+  - Appears at the top of every page (shared layout).  
+
+- **Footer `<footer>`** → The bottom section of a webpage.  
+  - Commonly includes **contact info, copyright, social links, and site credits**.  
+  - Improves user experience and gives quick access to important links or info.  
+  - Also helps in SEO and provides a consistent ending section.  
+
+
+#### Navigation Bar in Header  
+
+- The **Navigation Bar (`<nav>`)** is placed inside the header to provide links to main sections (Home, About, Contact, etc.).  
+- It improves **user flow and accessibility**, helping users move across the site easily.  
+- A well-designed navbar makes the website look **organized and professional**.  
+
+✅ **Use Case:** Header and footer make a webpage structured, consistent, and easy to navigate.  
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`header-footer.html`](./header-footer.html) for a practical example of all the above tags in action.
+
+
+
 
