@@ -46,7 +46,7 @@ This repo is my second brain: notes, snippets, projects, LeetCode solutions, and
 - **Backend**: Node.js, Express.js, GraphQL, Socket.io
 - **Database**:  MySQL, MongoDB, Firebase, Postgress, AWS
 - **Others**: DevOps, Python, Django, TypeScript, React Native
-- **Projects**
+- **Project Ideas**
 
 
 
@@ -57,12 +57,12 @@ Review the `Notes.md` file for each tech stack to better understand the other co
 
 
 <details>
-<summary><strong style="font-size:1.1rem;"> Frontend</strong></summary>
+<summary><strong style="font-size:1.1rem;">01 - Frontend</strong></summary>
 
 <details>
-<summary><a href="./01-Frontend/01-HTML-CSS/HTML">1. HTML</a></summary>
+<summary><a href="./01-Frontend/01-HTML-CSS">1. HTML-CSS</a></summary>
 
-- Introduction to HTML
+- Introduction to HTML ✨
 - project folder setup
 - index.html
 - live server extension
@@ -79,55 +79,84 @@ Review the `Notes.md` file for each tech stack to better understand the other co
 - buttons
 - forms
 - headers & footers
+- Introduction to CSS ✨
+- Colors 
+- Fonts 
+- Borders 
+- Shadows 
+- Margins 
+- Float 
+- Overflow 
+- Display Property 
+- Height and Width 
+- Positions 
+- Background Images 
+- Combinators 
+- Pseudo-classes 
+- Pseudo-elements 
+- Pagination 
+- Dropdown Menus 
+- Navigation Bar 
+- Website Layout 
+- Image Gallery 
+- Icons 
+- Flexbox 
+- Transformations 
+- Animations 
 </details>
 
 <details>
-<summary><a href="./01-Frontend/01-HTML-CSS/CSS">2. CSS</a></summary>
+<summary><a href="./01-Frontend/02-CSS">2. CSS Revision</a></summary>
+- What we are Building
+- Setup
+- Selectors
+- Fonts and Typography
+- Colors
+- Box Model
+- Flexbox
+- Form
+- Finalizing App
+- Second App
+- Flex
+- Grid List
+- Simple Grid
+- Medium Grid
+- Complex Grid
+- Absolute Relative Positioning
+- Responsive
 
-- Introduction to CSS 🎨
-- Colors 🖌️
-- Fonts 🔤
-- Borders 🖼
-- Shadows 👥
-- Margins ↔️
-- Float 🎈
-- Overflow 🌊
-- Display Property 🧱
-- Height and Width 📏
-- Positions 🎯
-- Background Images 🏙️
-- Combinators ➕
-- Pseudo-classes ☟
-- Pseudo-elements ✔
-- Pagination 🕮
-- Dropdown Menus 🔻
-- Navigation Bar 🧭
-- Website Layout 🗺️
-- Image Gallery 📷
-- Icons 🐤
-- Flexbox 💪
-- Transformations 🔄
-- Animations 🎬
+
 </details>
 
 <details>
-<summary><a href="./01-Frontend/02-JavaScript">3. JavaScript</a></summary>
+<summary><a href="./01-Frontend/03-JavaScript">3. JavaScript</a></summary>
 </details>
 
 <details>
-<summary><a href="#">4. TailwindCSS</a></summary>
+<summary><a href="./01-Frontend/04-Tailwind-CSS">4. TailwindCSS</a></summary>
+- Intro
+- Introduction to Tailwind CSS
+- How does Tailwind work?
+- Tailwind Fundamentals Understanding the Basics
+- The Just-In-Time (JIT) Compiler: Tailwind’s Superpower
+- Layouts & Flex-box: Structuring Your UI
+- Media Queries & Responsive Design 
+- Dark Mode in Tailwind
+- Custom Styles & Reusability 
+- Tailwind CSS Tips & Tricks
+- Fitness Project Details
 </details>
 
 <details>
-<summary><a href="./01-Frontend/03-React">4. React</a></summary>
+<summary><a href="./01-Frontend/05-React">5. React</a></summary>
 </details>
 
 <details>
-<summary><a href="#">5. Next.js</a></summary>
+<summary><a href="#">6. Next.js</a></summary>
 </details>
 
 <details>
-<summary><a href="#">6. Vue.js</a></summary>
+<summary><a href="#">7. Vue.js</a></summary>
 </details>
 
 </details>
@@ -136,11 +165,50 @@ Review the `Notes.md` file for each tech stack to better understand the other co
 <summary><strong style="font-size:1.1rem;">02 - Backend</strong></summary>
 
 <details>
-<summary><a href="#">1. Node.js</a></summary>
+<summary><a href="./02-Backend/01-Node.js/">1. Node.js</a></summary>
+- Intro
+- What Is Node.js
+- Course Setup
+- REPL
+- Module Wrapper
+- Modules In Depth
+- ES6 Modules
+- Path Module
+- FS Module
+- OS Module
+- URL Module
+- HTTP Module
+- Routing In Node.js
+- Serving Files In Node.js
+- NPM Complete Course
+- Node.js Behind The Scenes
+- Node.js Events
+- Streams In Node.js
+- Outro
 </details>
 
 <details>
-<summary><a href="#">2. Express.js</a></summary>
+<summary><a href="./02-Backend/02-Express.js/">2. Express.js</a></summary>
+- Intro
+- What is Express.js
+- Before Express.js
+- First Express App
+- Basic Routing
+- Advance Routing
+- Req and Res Advance Topics
+- Postman and App.route()
+- Advance Router
+- Route Parameters In Depth
+- Controllers In Depth
+- Query String In Depth
+- Sending JSON
+- Express Middleware's In Depth
+- Serving Static Files In Express
+- Template Engine Setup
+- EJS Crash Course
+- Outro
+
+
 </details>
 
 <details>
