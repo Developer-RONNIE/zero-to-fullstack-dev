@@ -107,6 +107,7 @@ Review the `Notes.md` file for each tech stack to better understand the other co
 
 <details>
 <summary><a href="./01-Frontend/02-CSS">2. CSS Revision</a></summary>
+
 - What we are Building
 - Setup
 - Selectors
@@ -134,6 +135,7 @@ Review the `Notes.md` file for each tech stack to better understand the other co
 
 <details>
 <summary><a href="./01-Frontend/04-Tailwind-CSS">4. TailwindCSS</a></summary>
+
 - Intro
 - Introduction to Tailwind CSS
 - How does Tailwind work?
@@ -166,6 +168,7 @@ Review the `Notes.md` file for each tech stack to better understand the other co
 
 <details>
 <summary><a href="./02-Backend/01-Node.js/">1. Node.js</a></summary>
+
 - Intro
 - What Is Node.js
 - Course Setup
@@ -189,6 +192,7 @@ Review the `Notes.md` file for each tech stack to better understand the other co
 
 <details>
 <summary><a href="./02-Backend/02-Express.js/">2. Express.js</a></summary>
+
 - Intro
 - What is Express.js
 - Before Express.js
