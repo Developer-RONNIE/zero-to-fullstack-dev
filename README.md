@@ -60,7 +60,7 @@ Review the `Notes.md` file for each tech stack to better understand the other co
 <summary><strong style="font-size:1.1rem;"> Frontend</strong></summary>
 
 <details>
-<summary><a href="./01-Frontend/01-HTML-CSS/HTML">HTML</a></summary>
+<summary><a href="./01-Frontend/01-HTML-CSS/HTML">1. HTML</a></summary>
 
 - Introduction to HTML
 - project folder setup
@@ -82,7 +82,7 @@ Review the `Notes.md` file for each tech stack to better understand the other co
 </details>
 
 <details>
-<summary><a href="./01-Frontend/01-HTML-CSS/CSS">CSS</a></summary>
+<summary><a href="./01-Frontend/01-HTML-CSS/CSS">2. CSS</a></summary>
 
 - Introduction to CSS 🎨
 - Colors 🖌️
@@ -111,23 +111,23 @@ Review the `Notes.md` file for each tech stack to better understand the other co
 </details>
 
 <details>
-<summary><a href="./01-Frontend/02-JavaScript">JavaScript</a></summary>
+<summary><a href="./01-Frontend/02-JavaScript">3. JavaScript</a></summary>
 </details>
 
 <details>
-<summary><a href="#">TailwindCSS</a></summary>
+<summary><a href="#">4. TailwindCSS</a></summary>
 </details>
 
 <details>
-<summary><a href="./01-Frontend/03-React">React</a></summary>
+<summary><a href="./01-Frontend/03-React">4. React</a></summary>
 </details>
 
 <details>
-<summary><a href="#">Next.js</a></summary>
+<summary><a href="#">5. Next.js</a></summary>
 </details>
 
 <details>
-<summary><a href="#">Vue.js</a></summary>
+<summary><a href="#">6. Vue.js</a></summary>
 </details>
 
 </details>
@@ -136,19 +136,19 @@ Review the `Notes.md` file for each tech stack to better understand the other co
 <summary><strong style="font-size:1.1rem;">02 - Backend</strong></summary>
 
 <details>
-<summary><a href="#">Node.js</a></summary>
+<summary><a href="#">1. Node.js</a></summary>
 </details>
 
 <details>
-<summary><a href="#">Express.js</a></summary>
+<summary><a href="#">2. Express.js</a></summary>
 </details>
 
 <details>
-<summary><a href="#">GraphQL</a></summary>
+<summary><a href="#">3. GraphQL</a></summary>
 </details>
 
 <details>
-<summary><a href="#">Socket.io</a></summary>
+<summary><a href="#">4. Socket.io</a></summary>
 </details>
 
 </details>
