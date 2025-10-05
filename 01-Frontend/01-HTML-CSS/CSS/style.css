@@ -1,3 +1,28 @@
+/* -------------- For index.html -------------- */
+
 #external-para {
     color: tomato;
+}
+
+/* -------------- Universal Selector -------------- */
+body {
+    background-color: rgb(41, 41, 41);  
+}
+h3 {
+    color: white;
+}
+
+/* -------------- For colors.html -------------- */
+
+#p1{
+    color: tomato;   /* color name */
+}
+#p2{
+    color: rgb(102, 222, 255)   /* rgb value */
+}
+#p3{
+    color: #59ff5f;  /* hex value */
+}
+#p4{
+    color: hsl(266, 79%, 63%);   /* hsl value */
 }

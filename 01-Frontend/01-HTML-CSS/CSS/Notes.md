@@ -36,9 +36,39 @@
      - Easier to **maintain and update** across large projects.  
 
 > 💡 **Refer this for better understanding:**  
-> Check out [`index.html`](./index.html) 
+> Check out [`index.html`](./index.html) & [`style.css`](./style.css)
 
 ### ⭐ Colors 
+
+CSS allows you to set colors using different formats.  
+
+- **Color Names:**  
+  Use predefined color names like `red`, `blue`, `green`, `yellow`, etc.  
+  Example: `color: red;`  
+
+- **RGB Values:**  
+  Use the **Red, Green, Blue** color model.  
+  Syntax: `rgb(255, 0, 0)` → Red color.  
+  Each value ranges from **0 to 255**.  
+
+- **Hexadecimal Values:**  
+  Use a **6-digit** or **3-digit** hex code.  
+  Syntax: `#RRGGBB` → e.g., `#ff0000` (Red), `#00ff00` (Green).  
+
+- **HSL Values:**  
+  Use **Hue, Saturation, Lightness**.  
+  Syntax: `hsl(0, 100%, 50%)` → Red color.  
+  - **Hue:** Base color (0–360° on color wheel)  
+  - **Saturation:** Color intensity (0%–100%)  
+  - **Lightness:** Brightness (0%–100%)  
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`colors.html`](./colors.html) & [`style.css`](./style.css)
+
+📘 **[Refer color docs](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)** – Complete list of all CSS named colors.
+
+
+
 ### ⭐ Fonts 
 ### ⭐ Borders 
 ### ⭐ Shadows 
