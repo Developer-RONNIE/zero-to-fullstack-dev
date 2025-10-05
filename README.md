@@ -294,26 +294,11 @@ Review the `Notes.md` file for each tech stack to better understand the other co
 
 This repository is designed to be your **second brain and personal dev library** as you grow from zero to fullstack. Here's how to make the most of it:
 
-**🔎 1. Navigate by Folder**  
-Each folder is self-contained:
-- `notes/`: 📘 Conceptual understanding & code explanations  
-- `projects/`: 🛠️ Mini and full-scale apps to reinforce learning  
-- `practice/` or `problems/`: 🧠 Focused hands-on problems and patterns
+1️⃣ **Refer the Syllabus**  
+Go through the syllabus section to understand the learning flow and the order of topics.
 
-> ✅ Tip: Start with `01-HTML-CSS`, then follow the folder order for a linear learning path.
-
-
-
-**🔗 2. Use the Table as Quick Access**  
-Use the 📁 **Folder Structure table** above as a dashboard. Each `View Folder` link takes you directly into that topic’s code and notes.
-
-
-
-**🧠 3. Follow My Notes & Patterns**  
-Inside most folders:
-- You'll find **clean markdown notes** explaining concepts  
-- **Code snippets**, real-world examples, and **patterns** to memorize  
-- **Project codebases** with meaningful comments
+2️⃣ **Explore Each Tech Stack Folder**  
+Open each tech stack folder and check the `Notes.md` file to understand the concepts, code explanations, and examples related to that technology.
 
 
 <div align="center">
