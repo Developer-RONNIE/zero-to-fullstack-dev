@@ -41,3 +41,19 @@ h3 {
     font-style: italic;
     color: turquoise;
 }
+
+
+/* -------------- For border.html -------------- */
+#border-h1{
+    border: 5px solid hsl(39, 100%, 50%);
+    border-radius: 10px;
+}
+
+#border-p{
+    border-bottom: 3px dashed rgb(153, 0, 255);
+    border-top: 3px groove rgb(0, 255, 255);
+    border-left: 3px dotted #ff00ff;
+    border-right: 3px ridge tomato;
+
+    border-radius: 15px;
+}
