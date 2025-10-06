@@ -134,7 +134,62 @@ Fonts control how text looks on a webpage — its style, size, and weight.
 
 📘 **[Refer color docs](https://fonts.google.com/)** – Complete list of all Google Fonts.
 
-### ⭐ Borders 
+### ⭐ Borders  
+
+Borders in CSS are used to define the outline of an element — they create visible boundaries around boxes like divs, buttons, images, etc. You can control a border’s style, width, color, and radius to match your design.
+
+#### Border Style:
+The `border-style` property defines the type of border.  
+Common values are:
+- `solid` — A single solid line.  
+- `dashed` — A line made of dashes.  
+- `dotted` — A line made of dots.  
+- `double` — Two solid lines.  
+- `groove` — Gives a 3D grooved effect.  
+- `ridge` — Opposite of groove; appears raised.  
+- `inset` — Makes the element appear embedded.  
+- `outset` — Makes the element appear pushed out.  
+- `none` — Removes any border.
+
+#### Border Width:
+Specifies the thickness of the border.  
+Example:  
+`border-width: 2px;`
+
+#### Border Color:
+Defines the color of the border.  
+Example:  
+`border-color: red;`
+
+#### Border Radius:
+Used to make rounded corners.  
+Example:  
+`border-radius: 10px;`
+
+#### Shorthand Syntax:
+You can combine border properties into one line:  
+`border: 2px solid red;`  
+Here:
+- `2px` → border width  
+- `solid` → border style  
+- `red` → border color  
+
+#### Border Sides:
+CSS lets you style each side of a border individually:  
+- `border-top: 2px solid blue;` → applies only to the top edge.  
+- `border-right: 2px dashed green;` → applies only to the right edge.  
+- `border-bottom: 3px dotted red;` → applies only to the bottom edge.  
+- `border-left: 1px double black;` → applies only to the left edge.  
+
+This gives full control over how each side looks — useful when designing unique boxes, underlines, or separators.
+
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`colors.html`](./border.html) & [`style.css`](./style.css)
+
+
+
+
 ### ⭐ Shadows 
 ### ⭐ Margins 
 ### ⭐ Float 
