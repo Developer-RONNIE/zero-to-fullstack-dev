@@ -57,3 +57,15 @@ h3 {
 
     border-radius: 15px;
 }
+
+/* -------------- For shadow.html -------------- */
+#shadow-h1{
+    text-shadow: 2px 2px 5px rgb(226, 27, 126), -2px -2px 5px rgb(27, 226, 133);
+}
+
+#shadow-div{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(126, 125, 125);
+    box-shadow: 5px 5px 15px rgb(27, 133, 226), -5px -5px 15px rgb(133, 27, 226);
+}
