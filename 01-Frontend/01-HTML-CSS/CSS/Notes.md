@@ -190,7 +190,39 @@ This gives full control over how each side looks — useful when designing uniqu
 
 
 
-### ⭐ Shadows 
+### ⭐ Shadows  
+
+Shadows in CSS add **depth and dimension** to text and elements, making them look elevated or highlighted.
+
+#### Horizontal Offset:
+Distance of the shadow along the X-axis.  
+- Positive → shadow moves **right**  
+- Negative → shadow moves **left**  
+
+#### Vertical Offset:
+Distance of the shadow along the Y-axis.  
+- Positive → shadow moves **down**  
+- Negative → shadow moves **up**  
+
+#### Blur Effect:
+Controls the **softness or spread** of the shadow edges.  
+- Higher value → softer, more blurred  
+- Lower value → sharper edges  
+
+#### Text Shadow:
+Adds shadow to **text content**.  
+- Syntax: `text-shadow: horizontal-offset vertical-offset blur-radius color;`  
+- Example: `text-shadow: 2px 2px 5px black;` → shadow shifted 2px right & down with 5px blur  
+
+#### Box Shadow:
+Adds shadow to **elements** like divs, buttons, images.  
+- Syntax: `box-shadow: horizontal-offset vertical-offset blur-radius color;`  
+- Example: `box-shadow: 4px 4px 10px rgba(0,0,0,0.5);` → semi-transparent shadow
+
+
+
+
+
 ### ⭐ Margins 
 ### ⭐ Float 
 ### ⭐ Overflow 
