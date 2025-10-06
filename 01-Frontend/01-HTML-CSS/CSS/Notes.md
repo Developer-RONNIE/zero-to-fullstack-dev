@@ -68,8 +68,72 @@ CSS allows you to set colors using different formats.
 📘 **[Refer color docs](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)** – Complete list of all CSS named colors.
 
 
-
 ### ⭐ Fonts 
+
+Fonts control how text looks on a webpage — its style, size, and weight.  
+
+- **Fallback Fonts / Web-Safe Fonts:**  
+  These are common fonts (like Arial, Verdana, Times New Roman) that are available on most devices.  
+  - Example: `font-family: 'Poppins', Arial, sans-serif;`  
+  - If the first font isn’t available, the browser uses the next one.  
+
+- **Using ID in CSS:**  
+  Each HTML element can have a unique `id`.  
+  - In CSS, we target it using `#idName`.  
+  - Example:  
+    ```css
+    #heading {
+      font-size: 20px;
+      color: navy;
+    }
+    ```  
+
+- **Font Size (`font-size`):**  
+  - Defines how big the text appears.  
+  - Common units:  
+    - `px` → fixed size (e.g., `16px`)  
+    - `em` → relative to parent element’s size (e.g., `1em`, `1.5em`)  
+
+- **Font Weight (`font-weight`):**  
+  - Controls text thickness (e.g., `normal`, `bold`, `100–900`).  
+
+- **Font Style (`font-style`):**  
+  - Controls slant of text — values: `normal`, `italic`, `oblique`.  
+
+---
+
+#### Using Google Fonts  
+
+- **Via API (Link):**  
+  - Add a `<link>` tag from [Google Fonts](https://fonts.google.com) inside your HTML `<head>`.  
+  - Example:  
+    ```html
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    ```  
+  - Then use in CSS:  
+    ```css
+    body {
+      font-family: 'Poppins', sans-serif;
+    }
+    ```  
+
+- **Using Google Fonts Locally:**  
+  - You can **download font files** and keep them inside a `fonts/` folder in your project.  
+  - Then import using `@font-face`:  
+    ```css
+    @font-face {
+      font-family: 'MyFont';
+      src: url('fonts/MyFont.ttf');
+    }
+    ```  
+  - ✅ Good for **offline use** and **faster loading** when hosting fonts locally.  
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`colors.html`](./fonts.html) & [`style.css`](./style.css)
+
+
+📘 **[Refer color docs](https://fonts.google.com/)** – Complete list of all Google Fonts.
+
 ### ⭐ Borders 
 ### ⭐ Shadows 
 ### ⭐ Margins 

@@ -18,11 +18,26 @@ h3 {
     color: tomato;   /* color name */
 }
 #p2{
-    color: rgb(102, 222, 255)   /* rgb value */
+    color: rgb(102, 222, 255);   /* rgb value */
 }
 #p3{
     color: #59ff5f;  /* hex value */
 }
 #p4{
     color: hsl(266, 79%, 63%);   /* hsl value */
+} 
+
+
+/* -------------- For fonts.html -------------- */
+#heading-font{
+    font-family: Montserrat,Verdana, Arial;
+    color: white;
+}
+
+#paragraph-font{
+    font-family:  'Roboto','lucida console', 'courier new';
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+    color: turquoise;
 }
