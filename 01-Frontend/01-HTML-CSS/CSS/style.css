@@ -69,3 +69,23 @@ h3 {
     background-color: rgb(126, 125, 125);
     box-shadow: 5px 5px 15px rgb(27, 133, 226), -5px -5px 15px rgb(133, 27, 226);
 }
+
+/* -------------- For margin.html -------------- */
+/* applying CSS to class */
+.m-box{ 
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+}
+/* applying CSS to id */
+#m-box1{
+    background-color: hsl(0, 90%, 69%);
+    margin-left: 100px;
+}
+#m-box2{
+    background-color: hsl(197, 90%, 69%);
+    margin-top: 50px;
+    margin-left:auto;
+}
+
