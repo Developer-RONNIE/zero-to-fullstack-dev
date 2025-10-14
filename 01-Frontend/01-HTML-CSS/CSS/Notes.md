@@ -100,7 +100,7 @@ Fonts control how text looks on a webpage — its style, size, and weight.
 - **Font Style (`font-style`):**  
   - Controls slant of text — values: `normal`, `italic`, `oblique`.  
 
----
+
 
 #### Using Google Fonts  
 
@@ -287,7 +287,40 @@ Float in CSS is used to **position elements to the left or right** within their 
 > Check out [`colors.html`](./float.html) & [`style.css`](./style.css)
 
 
-### ⭐ Overflow 
+### ⭐ Overflow
+
+The **overflow** property in CSS controls how content is handled when it **does not fit within its parent element’s box**. It defines whether extra content is shown, hidden, or made scrollable.
+
+#### Overflow Property:
+
+- Syntax: `overflow: value;`
+- Applies to both **block** and **inline-block** elements with a fixed height or width.
+
+#### Values:
+
+- **visible** → Default value.
+  Content that overflows the box is **not clipped** and will be **visible outside** the container.
+
+- **hidden** → Extra content is **clipped** and **not visible** outside the element’s box.
+  No scrollbars appear.
+
+- **clip** → Similar to `hidden`, but **strictly clips** the content to the element’s box **without scrollbars** or scrolling mechanism.
+
+- **scroll** → Content is **clipped**, and **scrollbars always appear** (both horizontal and vertical) even if content fits.
+
+- **auto** → Scrollbars appear **only when necessary** — if the content overflows the box.
+
+#### Notes:
+
+- You can control horizontal and vertical overflow separately:
+
+  * `overflow-x` → handles overflow along the horizontal axis
+  * `overflow-y` → handles overflow along the vertical axis
+- Useful for scrollable sections, containers, or hiding unwanted overflowed elements.
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`colors.html`](./float.html) & [`style.css`](./style.css)
+
 ### ⭐ Display Property 
 ### ⭐ Height and Width 
 ### ⭐ Positions 
@@ -296,6 +329,9 @@ Float in CSS is used to **position elements to the left or right** within their 
 ### ⭐ Pseudo-classes 
 ### ⭐ Pseudo-elements 
 ### ⭐ Pagination 
+
+
+
 ### ⭐ Dropdown Menus 
 ### ⭐ Navigation Bar 
 ### ⭐ Website Layout 
