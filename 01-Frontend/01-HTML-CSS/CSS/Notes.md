@@ -230,35 +230,63 @@ Margins in CSS create **space around elements**, separating them from other elem
 
 #### Margin Properties:
 
-* `margin-top` → sets space above the element
-* `margin-right` → sets space to the right of the element
-* `margin-bottom` → sets space below the element
-* `margin-left` → sets space to the left of the element
+- `margin-top` → sets space above the element
+- `margin-right` → sets space to the right of the element
+- `margin-bottom` → sets space below the element
+- `margin-left` → sets space to the left of the element
 
 #### Shorthand Property:
 
-* `margin: top right bottom left;` → allows setting all four sides in one line
-* Example: `margin: 10px 20px 15px 5px;` → top 10px, right 20px, bottom 15px, left 5px
+- `margin: top right bottom left;` → allows setting all four sides in one line
+- Example: `margin: 10px 20px 15px 5px;` → top 10px, right 20px, bottom 15px, left 5px
 
 #### Auto Margin:
 
-* `margin: auto;` → centers block elements horizontally when width is set
-* Can also use individually: `margin-left: auto; margin-right: auto;` → horizontal centering
+- `margin: auto;` → centers block elements horizontally when width is set
+- Can also use individually: `margin-left: auto; margin-right: auto;` → horizontal centering
 
 #### Checking Margins in Browser:
 
-* **Shortcut** → Right-click on the element → Inspect → Look in the **Styles or Computed** tab
-* Computed tab shows exact **margin values** for top, right, bottom, left
+- **Shortcut** → Right-click on the element → Inspect → Look in the **Styles or Computed** tab
+- Computed tab shows exact **margin values** for top, right, bottom, left
 
 #### Notes:
 
-* Margins do **not affect the element’s size**, only the space around it
-* Collapsing margins can occur when vertical margins of adjacent elements meet → the larger margin is used
+- Margins do **not affect the element’s size**, only the space around it
+- Collapsing margins can occur when vertical margins of adjacent elements meet → the larger margin is used
 
 > 💡 **Refer this for better understanding:**  
 > Check out [`colors.html`](./margin.html) & [`style.css`](./style.css)
 
-### ⭐ Float 
+### ⭐ Float
+
+Float in CSS is used to **position elements to the left or right** within their container, allowing other content to wrap around them.
+
+#### Float Properties:
+
+- `float: left;` → moves the element to the **left** of its container
+- `float: right;` → moves the element to the **right** of its container
+- `float: none;` → default, element stays in normal flow
+
+#### Clearing Floats:
+
+- `clear: left;` → element will not move next to floated elements on the left
+- `clear: right;` → element will not move next to floated elements on the right
+- `clear: both;` → element will not move next to floated elements on either side
+
+#### Notes on Body / Root:
+
+- Applying float directly to `body` or `:root` is **not recommended**; floats are meant for individual elements inside containers
+- For layout purposes, **flexbox or grid** is preferred over floating body elements
+
+#### Browser Tip:
+
+- Inspect floated elements in browser → right-click → Inspect → see how text and elements wrap around the floated item
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`colors.html`](./float.html) & [`style.css`](./style.css)
+
+
 ### ⭐ Overflow 
 ### ⭐ Display Property 
 ### ⭐ Height and Width 
