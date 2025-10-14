@@ -89,3 +89,13 @@ h3 {
     margin-left:auto;
 }
 
+/* -------------- For float.html -------------- */
+
+#f-img1{
+    float: left;
+    margin-right: 10px;
+}
+#f-img2{
+    float: right;
+    margin-right: 30px;
+}
