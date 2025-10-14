@@ -99,3 +99,40 @@ h3 {
     float: right;
     margin-right: 30px;
 }
+
+/* -------------- For overflow.html -------------- */
+#overflow-box1{
+    border: 2px solid;
+    border-color: antiquewhite;
+    height: 75px;
+    overflow: auto;
+}
+
+#overflow-box2{
+    border: 2px solid;
+    border-color: antiquewhite;
+    height: 75px;
+    overflow: hidden;
+}
+
+#overflow-box3{
+    border: 2px solid;
+    border-color: antiquewhite;
+    height: 75px;
+    overflow: clip;
+    overflow-clip-margin: 13px;
+}
+
+#overflow-box4{
+    border: 2px solid;
+    border-color: antiquewhite;
+    height: 75px;
+    overflow: scroll;
+}
+
+#overflow-box5{
+    border: 2px solid;
+    border-color: antiquewhite;
+    height: 75px;
+    overflow: visible;
+}
