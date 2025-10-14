@@ -219,11 +219,45 @@ Adds shadow to **elements** like divs, buttons, images.
 - Syntax: `box-shadow: horizontal-offset vertical-offset blur-radius color;`  
 - Example: `box-shadow: 4px 4px 10px rgba(0,0,0,0.5);` → semi-transparent shadow
 
+> 💡 **Refer this for better understanding:**  
+> Check out [`colors.html`](./shadow.html) & [`style.css`](./style.css)
 
 
 
+### ⭐ Margins
 
-### ⭐ Margins 
+Margins in CSS create **space around elements**, separating them from other elements and controlling layout.
+
+#### Margin Properties:
+
+* `margin-top` → sets space above the element
+* `margin-right` → sets space to the right of the element
+* `margin-bottom` → sets space below the element
+* `margin-left` → sets space to the left of the element
+
+#### Shorthand Property:
+
+* `margin: top right bottom left;` → allows setting all four sides in one line
+* Example: `margin: 10px 20px 15px 5px;` → top 10px, right 20px, bottom 15px, left 5px
+
+#### Auto Margin:
+
+* `margin: auto;` → centers block elements horizontally when width is set
+* Can also use individually: `margin-left: auto; margin-right: auto;` → horizontal centering
+
+#### Checking Margins in Browser:
+
+* **Shortcut** → Right-click on the element → Inspect → Look in the **Styles or Computed** tab
+* Computed tab shows exact **margin values** for top, right, bottom, left
+
+#### Notes:
+
+* Margins do **not affect the element’s size**, only the space around it
+* Collapsing margins can occur when vertical margins of adjacent elements meet → the larger margin is used
+
+> 💡 **Refer this for better understanding:**  
+> Check out [`colors.html`](./margin.html) & [`style.css`](./style.css)
+
 ### ⭐ Float 
 ### ⭐ Overflow 
 ### ⭐ Display Property 
