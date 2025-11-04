@@ -133,9 +133,10 @@ Under the singer’s name (inside your lyrics.html), add the album cover as an i
 **Example:**  
 ```html
 <audio controls autoplay muted loop>
+<!-- Comparison -->
   <source src="./song.mp3" type="audio/mpeg">
   <source src="./song.wav" type="audio/wav">
-  Your browser does not support the audio element.
+  
 </audio>
 ```
 
@@ -164,10 +165,10 @@ Under the singer’s name (inside your lyrics.html), add the album cover as an i
 **Example:**  
 ```html
 <video controls width="640" height="360" autoplay muted loop>
+<!-- Comparison -->
   <source src="./sample-video.mp4" type="video/mp4">
   <source src="./sample-video.webm" type="video/webm">
   <source src="./sample-video.ogv" type="video/ogg">
-  Your browser does not support the video tag.
 </video>
 ```
 
