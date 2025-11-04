@@ -32,7 +32,9 @@ Install the VS Code Live Server extension → Open your HTML file → Right-clic
   - Example: `<img src="album.jpg" alt="Album Cover">`  
   - `src` tells where the image is, `alt` describes it. 
 
-- `<>` → Angle brackets used to write HTML tags which tell the browser what each piece of content means.  
+- `<>` → Angle brackets used to write HTML tags which tell the browser what each piece of content means.
+
+### Some Important Tags 
 - `<!DOCTYPE html>` → Ensures the browser renders the page using the latest HTML5 standards.  
 - `<html>` → The outermost container for the webpage.  
 - `<head>` → Contains meta info, links to CSS/JS, and SEO info — does not display on the page.  
